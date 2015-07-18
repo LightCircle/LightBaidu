@@ -13,7 +13,7 @@
 var light    = require("light-core")
   , crypto   = require("crypto")
   , request  = light.util.request
-  , constant = require("../constant")
+  , constant = require("./constant")
   , _        = light.util.underscore
   , config   = light.framework.config;
 
